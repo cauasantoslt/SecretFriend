@@ -1,22 +1,35 @@
 let amigos = [];
-
 let amigo = document.getElementById('amigo');
-let botao = document.getElementById('botao');
+let listaAmigos = document.getElementById('listaAmigos');
 let resultado = document.getElementById('resultado');
 
 function adicionarAmigo() {
-  let amigoadd = amigo.value;
-  amigos.push(amigoadd);
-  resultado.textContent = "O amigo adicionado foi:" + amigos;
+  let novoAmigo = amigo.value.trim();
+
+  // Verifica se o nome já existe na lista
+  if (amigos.includes(novoAmigo)) {
+    alert('Este nome já foi adicionado.');
+    return;
+  }
+
+  // Adiciona o novo amigo à lista e à interface
+  amigos.push(novoAmigo);
+  const novoItem = document.createElement('li');
+  novoItem.textContent = novoAmigo;
+  listaAmigos.appendChild(novoItem);
+
+  // Limpa o campo de entrada
+  amigo.value = '';
 }
 
-function adicionarAmigo() {
-  let amigoadd = amigo.value.trim();
-  if (amigoadd === '') {
-   alert('Por favor, insira um valor.');
-   return;
-  } 
+//Função para sortear os amigos
+function sortearAmigo() {
+  if (amigos.length === 0) {
+    alert('Adicione pelo menos um nome para realizar o sorteio.');
+    return;
+  }
 
-amigos.push(amigoadd);
-resultado.textContent = "Você adicionou: " + amigoadd ;
+  const indiceAleatorio = Math.floor(Math.random() * amigos.length);
+  const amigoSorteado = amigos[indiceAleatorio];
+  resultado.textContent = `O amigo secreto é: ${amigoSorteado}`;
 }
