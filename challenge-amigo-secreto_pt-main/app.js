@@ -13,7 +13,10 @@ function adicionarAmigo() {
 function adicionarAmigo() {
   let amigoadd = amigo.value.trim();
   if (amigoadd === '') {
-    alert('Por favor, insira um valor.');
-    return;
+   alert('Por favor, insira um valor.');
+   return;
   } 
+
+amigos.push(amigoadd);
+resultado.textContent = "Você adicionou: " + amigoadd ;
 }
