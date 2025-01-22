@@ -1,6 +1,6 @@
 <div align="left" style="position: relative;">
 <img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: -20px 0 0 20px;">
-<h1>SECRETFRIEND</h1>
+<h1>SORTEADOR DE AMIGO SECRETO</h1>
 <p align="left">
 	<em>Unwrap surprises with a click!</em>
 </p>
