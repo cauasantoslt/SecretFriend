@@ -1,5 +1,5 @@
 <div align="left" style="position: relative;">
-<img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: 50px 0 0 20px;">
+<img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: 100px 0 0 20px;">
 <h1>SORTEADOR DE AMIGO SECRETO</h1>
 
 ## 🔗 Table of Contents
