@@ -1,22 +1,6 @@
 <div align="left" style="position: relative;">
 <img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: -20px 0 0 20px;">
 <h1>SORTEADOR DE AMIGO SECRETO</h1>
-<p align="left">
-	<em>Unwrap surprises with a click!</em>
-</p>
-<p align="left">
-	<img src="https://img.shields.io/github/license/cauasantoslt/SecretFriend?style=default&logo=opensourceinitiative&logoColor=white&color=290cb1" alt="license">
-	<img src="https://img.shields.io/github/last-commit/cauasantoslt/SecretFriend?style=default&logo=git&logoColor=white&color=290cb1" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/cauasantoslt/SecretFriend?style=default&color=290cb1" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/cauasantoslt/SecretFriend?style=default&color=290cb1" alt="repo-language-count">
-</p>
-<p align="left"><!-- default option, no dependency badges. -->
-</p>
-<p align="left">
-	<!-- default option, no dependency badges. -->
-</p>
-</div>
-<br clear="right">
 
 ## 🔗 Table of Contents
 
