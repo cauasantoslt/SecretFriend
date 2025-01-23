@@ -1,9 +1,15 @@
 <div align="left" style="position: relative;">
 <h1>SORTEADOR DE AMIGO SECRETO</h1>
 
+---
+## 💻 Preview
+<img src="./assets/preview.png" align="center" width="60%" style="margin: 20px 0 0 20px;">
+
+---
 ## 🔗 Table of Contents
 <img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: 20px 0 0 20px;">
 
+- [💻 Preview](#-preview)
 - [📍 Overview](#-overview)
 - [👾 Features](#-features)
 - [📁 Project Structure](#-project-structure)
