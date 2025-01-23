@@ -139,6 +139,6 @@ This project is protected under the [SELECT-A-LICENSE](https://choosealicense.co
 
 ## 🙌 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Thank you all for your support. I hope you like it :-).
 
 ---
