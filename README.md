@@ -3,7 +3,8 @@
 
 ---
 ## 💻 Preview
-<img src="./assets/preview.png" align="center" width="50%" style="margin: 20px;"> <img src="./assets/amigo-secreto.png" position="top" align="right" width="50%" style="margin: 20px;"> 
+<img src="./assets/preview.png" align="center" width="50%" style="margin: 20px;"> </br>
+<img src="./assets/amigo-secreto.png" align="left" width="50%" style="margin: 20px;"> 
 
 
 ---
