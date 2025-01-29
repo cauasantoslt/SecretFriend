@@ -3,7 +3,7 @@
 
 ---
 ## 💻 Preview
-<img src="./assets/preview.png" align="left" width="50%" style="margin: 20px;"> <img src="./assets/preview.png" align="right" width="50%" style="margin: 20px;"> 
+<img src="./assets/preview.png" align="center" width="50%" style="margin: 20px;"> <img src="./assets/preview.png" align="right" width="50%" style="margin: 20px;"> 
 
 
 ---
