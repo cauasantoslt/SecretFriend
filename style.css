@@ -106,7 +106,7 @@ body {
 
 /* Estilos de botão */
 button {
-    padding: 36px 48px ;
+    padding: 1rem;
     font-family: "Inter", sans-serif;
     font-size: 1rem;
     border: 2px solid #000;
