@@ -3,9 +3,11 @@
 
 ---
 ## 💻 Preview
-<img src="./assets/preview.png" align="left" width="100%" style="margin: 20px 0 0 20px;"> <img src="./assets/preview.png" align="right" width="100%" style="margin: 20px 0 0 20px;"> 
+<img src="./assets/preview.png" align="left" width="40%" style="margin: 20px;"> <img src="./assets/preview.png" align="right" width="40%" style="margin: 20px;"> 
+
 
 ---
+
 ## 🔗 Table of Contents
 <img src="./assets/amigo-secreto.png" align="right" width="40%" style="margin: 20px 0 0 20px;">
 
