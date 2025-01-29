@@ -3,7 +3,9 @@
 
 ---
 ## 💻 Preview
-
+<style> Display:flex; 
+	gap:1rem; 
+</style>
 <img src="./assets/preview.png" align="center" width="100%" style="margin: 20px 0 0 20px;"> <img src="./assets/preview.png" align="center" width="100%" style="margin: 20px 0 0 20px;"> 
 
 ---
